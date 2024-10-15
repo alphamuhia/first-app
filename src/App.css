@@ -2,32 +2,35 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(
-    to right top,
-    #00ff85,
-    #00ff7b,
-    #00ff6f,
-    #3cff25,
-    #4eff00
-  );
+  text-align: center;
   color: rgb(13, 46, 9);
+  background-color: aqua;
+}
+.personal {
+  text-align: center;
+  border: solid #3cff25;
+  border-radius: 20px;
+  background-color: aquamarine;
 }
 .about {
   text-align: center;
   border: solid #3cff25;
   border-radius: 20px;
+  background-color: aquamarine;
 }
 .list {
   text-align: center;
   list-style-position: inherit;
   border: solid #3cff25;
   border-radius: 20px;
+  background-color: aquamarine;
 }
 
 .school {
   text-align: center;
   border: solid #3cff25;
   border-radius: 20px;
+  background-color: aquamarine;
 }
 
 .jail {
@@ -36,5 +39,5 @@ body {
   /* justify-content: center; */
   border: solid #3cff25;
   border-radius: 20px;
-  overflow: hidden;
+  background-color: aquamarine;
 }

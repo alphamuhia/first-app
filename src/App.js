@@ -11,18 +11,23 @@ function App() {
       <div>
         <h1>Alpha's info</h1>
       </div>
+
       <div class="personal">
         <Personalinfo />
       </div>
+
       <div class="about">
         <Aboutpeter />
       </div>
+
       <div class="list">
         <Listoflikes />
       </div>
+
       <div class="school">
         <Schoollife />
       </div>
+
       <div class="jail">
         <Jaillife />
       </div>
